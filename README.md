@@ -32,3 +32,8 @@ SUCCESS - saved https://www.helpguide.org/wp-content/uploads/table-with-grains-v
 SUCCESS - saved https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/article/2020/04/22/coronavirus-and-obesity-doctors-take-aim-at-food-industry-over-poor-diets/10933380-3-eng-GB/Coronavirus-and-obesity-Doctors-take-aim-at-food-industry-over-poor-diets_wrbm_large.jpg - as ./images/food/93a9b5c943.jpg
 SUCCESS - saved https://www.helpguide.org/wp-content/uploads/fast-foods-candy-cookies-pastries-768.jpg - as ./images/food/4569a30ac0.jpg
 ```
+
+### Requirements
+- All packages inside `requirements.txt` file
+- Up to date Google Chrome
+- [Latest stable release of chromedriver](https://chromedriver.chromium.org/) located in the local directory where you are executing this code or in your path. 
