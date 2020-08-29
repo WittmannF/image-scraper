@@ -1,5 +1,5 @@
 # Image Scraper
-Selenium based image scraper on Google Images. Implementation based on [this blog post](https://towardsdatascience.com/image-scraping-with-python-a96feda8af2d). Under the folder `./images` there are some examples of small image datasets (which is actually my main goal when creating this repository - to have an easy access to some small image databases in order to experiment them in some classifiers). 
+Selenium based image scraper on Google Images based on code shared in [this blog post](https://towardsdatascience.com/image-scraping-with-python-a96feda8af2d). Under the folder `./images` there are some examples of image datasets (which is actually my main goal when creating this repository - to have an easy access to some small image datasets in order to experiment them in some classifiers). 
 
 ## Credits
 All the credits goes to this post:
